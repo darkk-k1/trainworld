@@ -1,0 +1,111 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "126db1f1ec01bbc4cf3393e087363e2fdbfe4a3face897ed27985b14a1a519a9"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "35547f679eb0eeac8c5158e49faea3b4ba99263bd6fd1cd27114a48dd6d3db9d"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "87be52b8aaa9864eab1ec2df8c862cd01a084989b07c4cdbfaa21c57a9a778a6"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "d675e5c2b08df4fee40416e6320183a443a864f448594ffa0f02b8b396166369"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "23dc3517bb479f4a7275bedc75ea45362aef0ff1b240d8cd0fde2fd152032cdf"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+hash = "ed85fb284be0712c9bd985700042597d2118fd9e7d998bdea81bd054df7eaa3c"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "b017d21c9632149ba70702bfd9d39320b9a2b3715236f3e9e603e3617eacddcb"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "a6feb15f78ee7192942287790965b40412221ac822985fdb18f05605fc951d78"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "730a38443ad685d0defd26ea4765e862b6c3eb789d4894ad27dfc4ad8001f4d3"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "ba16d5e568349bc79bb6a648090047fee23db3931f5399f9ad09c930410c740c"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "4f64bc81a381a3cb0c637829d547d8b0f5daa0ea29fe84a9e43a91784763745e"
+metafile = true
+
+[[files]]
+file = "mods/create-tfmg.pw.toml"
+hash = "2d519117992fc8bf34a5ac854bf68e7d8926b799ebe61e7f33cccd06a5b72201"
+metafile = true
+
+[[files]]
+file = "mods/create-utilities.pw.toml"
+hash = "32015c007bf45f87c9bd2c44885aa221c9e6bde8e76d650c35a0560ec93ecfa1"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "119d501c87aef8afa8cf89ed6f17499518c21240d7781f4331e3007e57957a79"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "efb00d657d22a7e560916ae2b7a2836f48586527a5ff40338af7e928472ef9da"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "94a549e2ce246807a68cb59773e2ee2ec412039fb2aed4e4d5b35077972c66d4"
+metafile = true
+
+[[files]]
+file = "mods/jei-multiblocks.pw.toml"
+hash = "c80339cef8764c7472cb967a3a948f4a3e1a1c242a7f42b19a5d5a9488a38637"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "7cfcef2f1142baa641151461c3e8f99fcd84f6f9f447cbc16e069a03f5aee8ca"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "b000d0545976048ed0bcd4276a47168c5eac0344fe404b07e67761d79a9c89cc"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "95650f26d33823363d0003ff801e081f4c1e9e33d88a4fc871ebc7ec33b72ac5"
+metafile = true
