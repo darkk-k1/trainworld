@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "119d501c87aef8afa8cf89ed6f17499518c21240d7781f4331e3007e57957a79"
+hash = "1eceb4e4ab86c793f992ce9444e92f46dae76c3f744d8e19feb1143fb6c01939"
 metafile = true
 
 [[files]]
@@ -81,18 +81,8 @@ hash = "efb00d657d22a7e560916ae2b7a2836f48586527a5ff40338af7e928472ef9da"
 metafile = true
 
 [[files]]
-file = "mods/immersiveengineering.pw.toml"
-hash = "fcb27576964bc17e215bd6b0514e77186f553582f476656c84f57dc96be76a5e"
-metafile = true
-
-[[files]]
 file = "mods/interiors.pw.toml"
 hash = "94a549e2ce246807a68cb59773e2ee2ec412039fb2aed4e4d5b35077972c66d4"
-metafile = true
-
-[[files]]
-file = "mods/jei-multiblocks.pw.toml"
-hash = "c80339cef8764c7472cb967a3a948f4a3e1a1c242a7f42b19a5d5a9488a38637"
 metafile = true
 
 [[files]]
